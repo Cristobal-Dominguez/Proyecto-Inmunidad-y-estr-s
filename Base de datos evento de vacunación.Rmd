@@ -1,0 +1,17 @@
+---
+title: "Evento vacunacion"
+author: "Paula Valenzuela"
+date: "06-06-2021"
+output: html_document
+---
+
+## Base de datos de muestro evento de vacunacion
+
+###Centro Petrohúe
+
+```{r}
+library(readxl)
+BD_Muestreo_centro_Petrohue_ <- read_excel("C:/Users/paula/OneDrive/Escritorio/Evento de vacunación/Evento vacunación/BD Muestreo centro Petrohue..xlsx")
+View(BD_Muestreo_centro_Petrohue_)
+```
+
