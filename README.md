@@ -58,6 +58,7 @@
 #### **Evento de vacunación**
 ###### - Para este propósito se realizo el documento SOP_Evento de vacunación el cúal se encuentra adjunto en el archivo con el mismo nombre. Este documento presenta el propósito, alcance, metodología, etiquetado de muestras y almacenamiento de estas. 
 ###### - Cabe mencionar que para este evento, el día 0 (previo a la vacunación) se logró tomar muestras para el grupo PRD proveniente de 2 estanques diferentes y 2 jaulas y para el grupo PRD provenientes de 4 estanques y 1 jaula. Sin embargo, por logista del centro Petrohué fue imposible seguir tomando muestras de más de 1 estanque diferente para los días 7,14 y 21; por lo que estas tomas de muestras se realizarón a partir de 1 estanque para el grupo PRD y de 2 estanques para el grupo PGR. 
+###### - El archivo adjunto Programación de fechas de vacunación, documenta los días de toma de muestra para los diferentes grupos, el numero de peces por día de muestra y los estanques de origen y destino para esta etapa. 
 ###### - A la fecha las muestras para el experimento de marcadores Biológicos y microarray PUCV se encuentran el refrigerador -80°C del laboratorio de genética y gebómica aplicada. Por otra parte, las 96 muestras para el experimento microarray ADL se encuentra guardadas en el laboratorio de ADL. 
 
 
