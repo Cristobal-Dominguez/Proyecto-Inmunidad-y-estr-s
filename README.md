@@ -68,6 +68,8 @@
 
 
 ### RESUMEN DE ANÁLISIS POST MUESTREOS
+
+##### El archivo Datos reproductores SNLCY1700.FAM.PG.REP.20 se encuentras los datos en bruto de las ovas de reproductores
 ##### Las muestras en RNA later serán utilizadas para análisis transcripcional y proteómico.
 ###### 1)	Ánálisis molecular de expresión de genes de estrés e inmunidad innata. En la tabla 1 y 2 se resumen los principales marcadores asociados a estrés e inmunidad que se analizarán en el proyecto.
 
